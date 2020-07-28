@@ -74,3 +74,8 @@
       text-align: center;
     }
   }
+
+.Menu{
+  display: flex;
+  justify-content: center;
+}

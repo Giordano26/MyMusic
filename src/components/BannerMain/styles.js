@@ -46,8 +46,9 @@ ContentAreaContainer.Category = styled.h1`
 `;
 
 ContentAreaContainer.Description = styled.p`
+  margin-bottom: 160px;
   @media (max-width: 800px) {
-    display: none;
+    text-align:center;
   }
 `;
 
@@ -66,7 +67,7 @@ ContentAreaContainer.Title = styled.h2`
 `;
 
 export const BannerMainContainer = styled.section`
-  height: 80vh;
+  height: 90vh;
   position: relative;
   color: #fff;
   background-image: ${({ backgroundImage }) => `url(${backgroundImage})`}; 
@@ -121,5 +122,12 @@ export const WatchButton = styled.button`
   margin: 0 auto;
   @media (max-width: 800px) {
     display: block;
+    position:absolute;
+    left:68.2%;
+		top:78%;
+		margin-left:-110px;
+    margin-top:-40px;
+    outline:0;
+    text-align:center;
   }
 `;
