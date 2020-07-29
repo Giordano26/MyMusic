@@ -53,3 +53,10 @@ export const VideoCardGroupContainer = styled.section`
   margin-left: 5%;
   margin-bottom: 16px;
 `;
+
+export const Tracks = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:25px;
+`;

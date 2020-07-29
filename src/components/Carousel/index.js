@@ -1,6 +1,7 @@
 import React from 'react';
-import { VideoCardGroupContainer, VideoCardList, Title, ExtraLink } from './styles';
+import { VideoCardGroupContainer, VideoCardList, Title, ExtraLink, Tracks } from './styles';
 import VideoCard from './components/VideoCard';
+
 
 function VideoCardGroup({
   ignoreFirstVideo,
@@ -37,6 +38,7 @@ function VideoCardGroup({
                 videoURL={video.url}
                 categoryColor={categoryColor}
               />
+              <Tracks>{video.titulo}</Tracks>
             </li>
           );
         })}

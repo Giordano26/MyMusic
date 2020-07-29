@@ -58,6 +58,7 @@ function App() {
              <Carousel 
           category={dadosIniciais.categorias[10]}
          />
+         <Footer/>
     </AppWrapper>
   );
 }

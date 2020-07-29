@@ -14,3 +14,12 @@ export const FooterBase = styled.footer`
     margin-bottom: 50px;
   }
 `;
+
+export const icons = styled.div`
+  display: flex;
+  justify-content: center;
+`;
+
+export const icon = styled.div`
+  margin: 5px
+`;
