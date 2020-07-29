@@ -1,0 +1,15 @@
+.tracks{
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity .2s, visibility .2s;
+  }
+  
+  .box:hover .tracks{
+    visibility: visible;
+    opacity: 1;
+  }

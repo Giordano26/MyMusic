@@ -133,7 +133,7 @@
           "url": "https://www.youtube.com/watch?v=e3ZAJevR_4Q"
         },
         {
-          "titulo": "Frances Farmer Will Have Her Revenge On Seattle",
+          "titulo": "Frances Farmer",
           "url": "https://www.youtube.com/watch?v=boZq2gBlyNs"
         },
         {
@@ -203,7 +203,7 @@
           "url": "https://www.youtube.com/watch?v=ouqgs7uFlHw"
         },
         {
-          "titulo": "Cealia's Dream",
+          "titulo": "Celia's Dream",
           "url": "https://www.youtube.com/watch?v=BGznUPqLZFI"
         }
       ]
@@ -405,7 +405,15 @@
     {
       "titulo": "The Cure",
       "cor": "#5d00ff",
+      "link_extra": {
+        "text": "Seventeen Seconds Album",
+        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck?si=3YoRzUrxT6WKwfv2dQp0Hw"
+      },
       "videos": [
+        {
+          "titulo": "Peel Session 1980",
+          "url": "https://www.youtube.com/watch?v=bsUXcQakUno"
+        },
         {
           "titulo": "A Forest",
           "url": "https://www.youtube.com/watch?v=r54jwZvtJck"
