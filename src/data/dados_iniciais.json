@@ -1,185 +1,432 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Pink Floyd", 
+      "link": "https://open.spotify.com/playlist/5NHikzgfSLhTK3d5JqBQi9?si=FBTfH2PKQ-Cb3ehr1BW08A",
+      "cor": "#5d00ff",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Playlist no Spotify",
+        "url": "https://open.spotify.com/playlist/5NHikzgfSLhTK3d5JqBQi9?si=FBTfH2PKQ-Cb3ehr1BW08A"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "The Dark Side of the Moon",
+          "url": "https://www.youtube.com/watch?v=yXWSq5UyERo"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Echoes live at Pompeii",
+          "url": "https://www.youtube.com/watch?v=y-E7_VHLvkE"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Careful With that Axe Eugene, Pompeii",
+          "url": "https://www.youtube.com/watch?v=YtZqNAI4pBk"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Fearless",
+          "url": "https://www.youtube.com/watch?v=t3J_2R9rAp8"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Another Brick in The Wall",
+          "url": "https://www.youtube.com/watch?v=YR5ApYxkU-U"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Marooned",
+          "url": "https://www.youtube.com/watch?v=P7YMI39sObY"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Dogs",
+          "url": "https://www.youtube.com/watch?v=4QA30qkRYy8"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Any Colour You Like ",
+          "url": "https://www.youtube.com/watch?v=y-mGcfWXe0Y"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Joy Division",
+      "cor": "#5d00ff",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Unknown Pleasures Album",
+        "url": "https://open.spotify.com/album/5Dgqy4bBg09Rdw7CQM545s?si=Mx_McyrwQ-CwZilGDVaXyA"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Disorder",
+          "url": "https://www.youtube.com/watch?v=fhCLalLXHP4"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "She's Lost Control",
+          "url": "https://www.youtube.com/watch?v=s4prQ11orEM"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Love Will Tear Us Apart",
+          "url": "https://www.youtube.com/watch?v=zuuObGsB0No"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+          "titulo": "Shadowplay",
+          "url": "https://www.youtube.com/watch?v=L1cHSoARzS0"
+        },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "New Dawn Fades",
+          "url": "https://www.youtube.com/watch?v=aXAthCVbnDI"
+
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Alice In Chains",
+      "cor": "#5d00ff",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "MTV Unplugged Album",
+        "url": "https://open.spotify.com/album/5PdgIAHzwDvTZRjIGSQGtN?si=Cgf0r1YwQTG1bAyjnQpy5w"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Man in The box",
+          "url": "https://www.youtube.com/watch?v=H1i5HaQV9ck"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Would?",
+          "url": "https://www.youtube.com/watch?v=mOJEcEkR1a8"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Rooster",
+          "url": "https://www.youtube.com/watch?v=uAE6Il6OTcs"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Nutshell",
+          "url": "https://www.youtube.com/watch?v=g_ihXlWKC7g"
+        },
+      {
+        "titulo": "Them Bones",
+        "url":"https://www.youtube.com/watch?v=zTuD8k3JvxQ"
+      }
+      ]
+    },
+    {
+      "titulo": "Nirvana",
+      "cor": "#5d00ff",
+      "link_extra":{
+        "text": "Bleach Album",
+        "url": "https://open.spotify.com/album/5coEIaetHQo1zmFOOI5sXF?si=ZqdWEMV0T92mcXfbgJl09Q"
+        },
+      "videos": [
+        {
+          "titulo": "School live at Seattle",
+          "url": "https://www.youtube.com/watch?v=aattgr1wFcU"
+        },
+        {
+          "titulo": "Breed live at Seattle",
+          "url": "https://www.youtube.com/watch?v=xdTa6BiGXO0"
+        },
+        {
+          "titulo": "Aneurysm live at The Paramount",
+          "url": "https://www.youtube.com/watch?v=aIr_IXXLZ8Q"
+        },
+        {
+          "titulo": "Rape Me live at The Paramount",
+          "url": "https://www.youtube.com/watch?v=ly1lWkRwm6g"
+        },
+        {
+          "titulo": "Lithium live at The Paramount",
+          "url": "https://www.youtube.com/watch?v=e3ZAJevR_4Q"
+        },
+        {
+          "titulo": "Frances Farmer Will Have Her Revenge On Seattle",
+          "url": "https://www.youtube.com/watch?v=boZq2gBlyNs"
+        },
+        {
+          "titulo": "Serve The Servants",
+          "url": "https://www.youtube.com/watch?v=1hTXYPp2i70"
+        },
+        {
+          "titulo": "Negative Creep",
+          "url": "https://www.youtube.com/watch?v=nPD1CuPxH_M"
+        },
+        {
+          "titulo": "Aero Zeppelin",
+          "url": "https://www.youtube.com/watch?v=swbawezUc3k"
+        },
+        {
+          "titulo": "Swap Meet",
+          "url": "https://www.youtube.com/watch?v=jJs0hg0nNKI"
+        },
+        {
+          "titulo": "Love Buzz",
+          "url": "https://www.youtube.com/watch?v=ZEh3mO9MPV0"
+        },
+        {
+          "titulo": "Blew",
+          "url": "https://www.youtube.com/watch?v=QVlo81A5mHc"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Slowdive",
+      "cor": "#5d00ff",
+      "link_extra": {
+        "text": "Souvlaki Album",
+        "url": "https://open.spotify.com/album/4i21O3uVh5palcfFhCjlT7?si=N7MIrqzeSmmZMCWjjbaMMQ"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Souvlaki Space Station",
+          "url": "https://www.youtube.com/watch?v=lH5wlRrKzK4"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "When the Sun hits",
+          "url": "https://www.youtube.com/watch?v=HN-KHZ9NDVA"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Machine Gun",
+          "url": "https://www.youtube.com/watch?v=SQ6pHlVKW9w"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Alison",
+          "url": "https://www.youtube.com/watch?v=5D2u3ASuelQ"
+        },
+        {
+          "titulo": "Catch the Breeze",
+          "url": "https://www.youtube.com/watch?v=b-ypXdiyG54"
+        },
+        {
+          "titulo": "Dagger",
+          "url": "https://www.youtube.com/watch?v=CczmMDvQDa0"
+        },
+        {
+          "titulo": "Jesus",
+          "url": "https://www.youtube.com/watch?v=YdUzZ8x39zE"
+        },
+        {
+          "titulo": "Ballad Of Sister Sue",
+          "url": "https://www.youtube.com/watch?v=ouqgs7uFlHw"
+        },
+        {
+          "titulo": "Cealia's Dream",
+          "url": "https://www.youtube.com/watch?v=BGznUPqLZFI"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "The Smiths",
+      "cor": "#5d00ff",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "The Smiths Album",
+        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN?si=ksen2YzjT3mfyw1Qe_tyrQ"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "This Night Has Opened My Eyes",
+          "url": "https://www.youtube.com/watch?v=iWcQqWW3QCI"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Some Girls are Bigger Than Others",
+          "url": "https://www.youtube.com/watch?v=C906lbkcYug"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "There is a Light That Never Goes out",
+          "url": "https://www.youtube.com/watch?v=3r-qDvD3F3c"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Bigmouth Strikes Again",
+          "url": "https://www.youtube.com/watch?v=PtzhvJh9NRY"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Pretty Girls Make Graves",
+          "url": "https://www.youtube.com/watch?v=jGl7g_a5YLA"
+        },
+        {
+          "titulo": "Money Changes Everything",
+          "url": "https://www.youtube.com/watch?v=05lON3j1FH8"
+        },
+        {
+          "titulo": "Reel Around The Fountain",
+          "url": "https://www.youtube.com/watch?v=V04bUY5Kl8w"
+        },
+        {
+          "titulo": "Suffur little Children",
+          "url": "https://www.youtube.com/watch?v=Xux9-UQ4wJ4"
+        },
+        {
+          "titulo": "The Hand That Rocks the Cradle",
+          "url": "https://www.youtube.com/watch?v=azNq-XaaS9Q"
+        },
+        {
+          "titulo": "Heaven Knows I'm Miserable Now",
+          "url": "https://www.youtube.com/watch?v=TjPhzgxe3L0"
+        }
+      ]
+    },
+    { "titulo": "My Bloody Valentine",
+      "cor": "#5d00ff",
+      "link_extra": {
+        "text": "Loveless Album",
+        "url": "https://www.youtube.com/watch?v=Dq76B2sDpFA"
+      },
+      "videos": [
+        {
+          "titulo": "Only Shallow",
+          "url": "https://www.youtube.com/watch?v=FyYMzEplnfU"
+        },
+        {
+          "titulo": "I Only Said",
+          "url": "https://www.youtube.com/watch?v=tVj-fc1M_D0"
+        },
+        {
+          "titulo": "Slow",
+          "url": "https://www.youtube.com/watch?v=gxf0o5XHX4M"
+        },
+        {
+          "titulo": "Drive it All Over Me",
+          "url": "https://www.youtube.com/watch?v=v4_nV8jQqSE"
+        },
+        {
+          "titulo": "Soon",
+          "url": "https://www.youtube.com/watch?v=586-G4TcUxQ"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Radiohead",
+      "cor": "#5d00ff",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Ok computer Album",
+        "url": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn?si=W-Sm4BtyQ-iFIfHpLVfNQA"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Paranoid Android",
+          "url": "https://www.youtube.com/watch?v=YTH8cxXBGBo"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Jigsaw Falling Into Place",
+          "url": "https://www.youtube.com/watch?v=CvjRlYpXS5U"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "The Bends",
+          "url": "https://www.youtube.com/watch?v=K8z8hLvjb_U"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Knives Out",
+          "url": "https://www.youtube.com/watch?v=jhsyc81VcB4"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Just",
+          "url": "https://www.youtube.com/watch?v=oIFLtNYI3Ls"
+        },
+        {
+          "titulo": "Exit Music",
+          "url": "https://www.youtube.com/watch?v=Bf01riuiJWA"
+        },
+        {
+          "titulo": "Subterranean Homesick Alien",
+          "url": "https://www.youtube.com/watch?v=_fTWmUlTEqE"
+        }
+      ]
+    },
+    {
+      "titulo": "Smashing Pumpkins",
+      "cor": "#5d00ff",
+      "link_extra": {
+        "text": "Siamese Dream Album",
+        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN?si=pCNtcndMRAaRjFPg88v6gw"
+      },
+      "videos": [
+        {
+          "titulo": "Jennifer Ever",
+          "url": "https://www.youtube.com/watch?v=csp06tLUcBo"
+        },
+        {
+          "titulo": "There It Goes",
+          "url": "https://www.youtube.com/watch?v=pVSbTGE1hAA"
+        },
+        {
+          "titulo": "Bullet With Butterfly Wings",
+          "url": "https://www.youtube.com/watch?v=8-r-V0uK4u0"
+        },
+        {
+          "titulo": "Cherub Rock",
+          "url": "https://www.youtube.com/watch?v=q-KE9lvU810"
+        },
+        {
+          "titulo": "I Am One",
+          "url": "https://www.youtube.com/watch?v=Pi6RJmUNBbw"
+        },
+        {
+          "titulo": "Siva",
+          "url": "https://www.youtube.com/watch?v=Nx0WpxXMhWI"
+        },
+        {
+          "titulo": "Rhinoceros",
+          "url": "https://www.youtube.com/watch?v=aVfWx9282y0"
+        },
+        {
+          "titulo": "Bury Me",
+          "url": "https://www.youtube.com/watch?v=z_WCi67xA34"
+        }
+      ]
+    },
+    {
+      "titulo": "Red Hot Chilli Peppers",
+      "cor": "#5d00ff",
+      "videos": [
+        {
+          "titulo": "Under the bridge",
+          "url": "https://www.youtube.com/watch?v=GLvohMXgcBo"
+        },
+        {
+          "titulo": "Easily",
+          "url": "https://www.youtube.com/watch?v=p6hWHWqguPw"
+        },
+        {
+          "titulo": "Wet Sand",
+          "url": "https://www.youtube.com/watch?v=oabjND9QW8Q"
+        },
+        {
+          "titulo": "Aeroplane",
+          "url": "https://www.youtube.com/watch?v=vV8IAOojoAA"
+        },
+        {
+          "titulo": "Suck My Kiss",
+          "url": "https://www.youtube.com/watch?v=C6jElKMMOWM"
+        },
+        {
+          "titulo": "Give It Away",
+          "url": "https://www.youtube.com/watch?v=Mr_uHJPUlO8"
+        },
+        {
+          "titulo": "Snow (Hey Oh)",
+          "url": "https://www.youtube.com/watch?v=yuFI5KSPAt4"
+        }
+
+      ]
+    },
+    {
+      "titulo": "The Cure",
+      "cor": "#5d00ff",
+      "videos": [
+        {
+          "titulo": "A Forest",
+          "url": "https://www.youtube.com/watch?v=r54jwZvtJck"
+        },
+        {
+          "titulo": "Lullaby",
+          "url": "https://www.youtube.com/watch?v=ijxk-fgcg7c"
+        },
+        {
+          "titulo": "M",
+          "url": "https://www.youtube.com/watch?v=wnWoMsn2abQ"
+        },
+        {
+          "titulo": "A Nigth Like This",
+          "url": "https://www.youtube.com/watch?v=KE1nu67-U2I"
+        },
+        {
+          "titulo": "Lovesong",
+          "url": "https://www.youtube.com/watch?v=ks_qOI0lzho"
         }
       ]
     }
-  ]
+    ]
 }

@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import Button from '../Button';
 
 export const LogoImage = styled.img`
     max-width: 300px;
@@ -15,6 +14,7 @@ export const LogoImage = styled.img`
 export const MenuWrapper = styled.nav`
     width: 100%;
     height: 94px;
+    z-index: 20;
     background-color: var(--black);
 
     position: fixed;

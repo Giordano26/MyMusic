@@ -20,10 +20,44 @@ function App() {
     <AppWrapper >
       <Menu />
       <BannerMain
-        videoTitle = "The Dark Side of The Moon"
+        videoTitle = {dadosIniciais.categorias[0].videos[0].titulo}
         videoDescription= "Tracks:"
-        url="https://www.youtube.com/watch?v=yXWSq5UyERo&t"
+        url={dadosIniciais.categorias[0].videos[0].url}
         />
+        <Carousel
+          ignoreFirstVideo
+          category= {dadosIniciais.categorias[0]}
+         />
+         <Carousel 
+          category={dadosIniciais.categorias[1]}
+         />
+         <Carousel 
+          category={dadosIniciais.categorias[2]}
+         />
+         <Carousel 
+          category={dadosIniciais.categorias[3]}
+         />
+         <Carousel 
+          category={dadosIniciais.categorias[4]}
+         />
+         <Carousel 
+          category={dadosIniciais.categorias[5]}
+         />
+             <Carousel 
+          category={dadosIniciais.categorias[6]}
+         />
+             <Carousel 
+          category={dadosIniciais.categorias[7]}
+         />
+             <Carousel 
+          category={dadosIniciais.categorias[8]}
+         />
+             <Carousel 
+          category={dadosIniciais.categorias[9]}
+         />
+             <Carousel 
+          category={dadosIniciais.categorias[10]}
+         />
     </AppWrapper>
   );
 }
