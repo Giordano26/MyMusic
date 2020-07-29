@@ -1,5 +1,5 @@
 import React from 'react';
-import { FooterBase,icons,icon } from './styles';
+import { FooterBase} from './styles';
 
 function Footer() {
   return (
@@ -7,7 +7,7 @@ function Footer() {
       <icons>
         <icon>
           <a href="https://github.com/Giordano26">
-            <img height="40" src="https://image.flaticon.com/icons/svg/733/733553.svg" alt="Github Logo" />
+           GitHub
           </a>
         </icon>
       </icons>
