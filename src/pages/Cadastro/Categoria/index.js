@@ -10,7 +10,7 @@ function CadastroCategoria(){
         <form>
 
           <label>
-            Nome da Categoria:
+            Nome da categoria:
             <input
                 type="text"
                           />
@@ -24,7 +24,7 @@ function CadastroCategoria(){
         </Link>
         <p></p>
         <Link to="/">
-           Ir para Home 
+           Voltar para Home 
         </Link>
       </PageDefault>
     )

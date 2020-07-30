@@ -10,7 +10,7 @@ function CadastroVideo(){
         <form>
 
           <label>
-            Nome da Categoria:
+            Nome do vídeo:
             <input
                 type="text"
                           />
@@ -21,7 +21,7 @@ function CadastroVideo(){
         </form>
 
         <Link to="/cadastro/categoria">
-           Cadastro Categoria 
+           Cadastro categoria 
         </Link>
         <p></p>
         <Link to="/">
