@@ -15,12 +15,10 @@ function CadastroCategoria(){
                 type="text"
                           />
             </label>
-
         <button>
           Cadastrar
           </button>
         </form>
-        
         <Link to="/cadastro/video">
             Cadastro de video
         </Link>

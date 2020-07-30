@@ -15,7 +15,6 @@ function CadastroVideo(){
                 type="text"
                           />
             </label>
-
         <button>
           Cadastrar
           </button>
