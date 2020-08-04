@@ -7,9 +7,19 @@
     visibility: hidden;
     opacity: 0;
     transition: opacity .2s, visibility .2s;
+
   }
   
   .box:hover .tracks{
     visibility: visible;
     opacity: 1;
   }
+
+  @media (max-width: 800px) {
+    .tracks{
+      visibility: visible;
+      opacity: 1;
+      transition: none;
+    }
+  }
+  
