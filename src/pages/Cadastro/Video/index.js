@@ -22,7 +22,7 @@ function CadastroVideo(){
 
     return (
       <PageDefault>
-        <h1>Cadastro de Categoria: {values.nome}</h1>
+        <h1>Cadastro de Vídeo: {values.nome}</h1>
         <form onSubmit={function handleSubmit(infosDoEvento) {
           infosDoEvento.preventDefault();
           setCategorias([...categorias,values.nome]);
@@ -36,7 +36,7 @@ function CadastroVideo(){
             value={values.nome}
             onChange={Registro}
           />
-          
+          <br></br>
           <FormField
             texto= "Descrição: "
             type= "text"
@@ -44,7 +44,7 @@ function CadastroVideo(){
             value={values.descrição}
             onChange={Registro}
           />
-
+            <br></br>
           <FormField
             texto= "Url do Vídeo: "
             type= "text"
@@ -53,13 +53,13 @@ function CadastroVideo(){
             onChange={Registro}
           />
 
-          
-        <button>
+          <br></br>
+        <button className="button">
           Cadastrar
           </button>
         </form>
         <ul>
-
+        <br></br>
           {categorias.map((categoria,indice) =>{
             return(
               <div className='listbox' key={`${categoria}${indice}`}>
@@ -70,11 +70,11 @@ function CadastroVideo(){
             )
           })}
         </ul>
-        
+        <br></br>
         <Link to="/cadastro/categoria">
             Cadastro de Categoria
         </Link>
-        <p></p>
+        <br></br>
         <Link to="/">
            Voltar para Home 
         </Link>

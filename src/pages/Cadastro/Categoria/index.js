@@ -36,7 +36,7 @@ function CadastroCategoria(){
             value={values.nome}
             onChange={Registro}
           />
-
+          <br></br>
           <FormField
             texto= "Descrição: "
             type= "text"
@@ -44,13 +44,15 @@ function CadastroCategoria(){
             value={values.descrição}
             onChange={Registro}
           />
+
+          <br></br>
           
-        <button>
+        <button className="button">
           Cadastrar
           </button>
         </form>
         <ul>
-
+          <br></br>
           {categorias.map((categoria,indice) =>{
             return(
               <div className='listbox' key={`${categoria}${indice}`}>
@@ -62,13 +64,16 @@ function CadastroCategoria(){
           })}
         </ul>
         
+        
         <Link to="/cadastro/video">
+          <br></br>
             Cadastro de Vídeo
         </Link>
-        <p></p>
+        <br></br>
         <Link to="/">
            Voltar para Home 
         </Link>
+       
       </PageDefault>
     )
   }
