@@ -53,6 +53,10 @@
       },
       "videos": [
         {
+          "titulo": "Still Ill",
+          "url": "https://www.youtube.com/watch?v=rNdfumwxqt4"
+        },
+        {
           "titulo": "This Night Has Opened My Eyes",
           "url": "https://www.youtube.com/watch?v=iWcQqWW3QCI"
         },
@@ -81,7 +85,7 @@
           "url": "https://www.youtube.com/watch?v=V04bUY5Kl8w"
         },
         {
-          "titulo": "Suffur little Children",
+          "titulo": "Suffer little Children",
           "url": "https://www.youtube.com/watch?v=Xux9-UQ4wJ4"
         },
         {
