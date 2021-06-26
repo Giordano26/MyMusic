@@ -1,5 +1,6 @@
 {
   "categorias": [
+    
     {
       "titulo": "Pink Floyd", 
       "link": "https://open.spotify.com/playlist/5NHikzgfSLhTK3d5JqBQi9?si=FBTfH2PKQ-Cb3ehr1BW08A",
@@ -10,8 +11,8 @@
       },
       "videos": [
         {
-          "titulo": "The Dark Side of the Moon",
-          "url": "https://www.youtube.com/watch?v=yXWSq5UyERo"
+          "titulo": "Animals",
+          "url": "https://www.youtube.com/watch?v=2kmICp1Y1SQ"
         },
         {
           "titulo": "Echoes live at Pompeii",
@@ -43,6 +44,199 @@
         }        
       ]
     },
+    {
+      "titulo": "The Smiths",
+      "cor": "#5d00ff",
+      "link_extra": {
+        "text": "The Smiths Album",
+        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN?si=ksen2YzjT3mfyw1Qe_tyrQ"
+      },
+      "videos": [
+        {
+          "titulo": "This Night Has Opened My Eyes",
+          "url": "https://www.youtube.com/watch?v=iWcQqWW3QCI"
+        },
+        {
+          "titulo": "Some Girls are Bigger Than Others",
+          "url": "https://www.youtube.com/watch?v=C906lbkcYug"
+        },
+        {
+          "titulo": "There is a Light That Never Goes out",
+          "url": "https://www.youtube.com/watch?v=3r-qDvD3F3c"
+        },
+        {
+          "titulo": "Bigmouth Strikes Again",
+          "url": "https://www.youtube.com/watch?v=PtzhvJh9NRY"
+        },
+        {
+          "titulo": "Pretty Girls Make Graves",
+          "url": "https://www.youtube.com/watch?v=jGl7g_a5YLA"
+        },
+        {
+          "titulo": "Money Changes Everything",
+          "url": "https://www.youtube.com/watch?v=05lON3j1FH8"
+        },
+        {
+          "titulo": "Reel Around The Fountain",
+          "url": "https://www.youtube.com/watch?v=V04bUY5Kl8w"
+        },
+        {
+          "titulo": "Suffur little Children",
+          "url": "https://www.youtube.com/watch?v=Xux9-UQ4wJ4"
+        },
+        {
+          "titulo": "The Hand That Rocks the Cradle",
+          "url": "https://www.youtube.com/watch?v=azNq-XaaS9Q"
+        },
+        {
+          "titulo": "Heaven Knows I'm Miserable Now",
+          "url": "https://www.youtube.com/watch?v=TjPhzgxe3L0"
+        }
+      ]
+    },
+    { "titulo": "My Bloody Valentine",
+      "cor": "#5d00ff",
+      "link_extra": {
+        "text": "This is My Bloody Valentine",
+        "url": "https://open.spotify.com/playlist/37i9dQZF1DX8axc278uE9F?si=1bb2647e0f4c4d1b"
+      },
+      "videos": [
+        {
+          "titulo": "Only Shallow",
+          "url": "https://www.youtube.com/watch?v=FyYMzEplnfU"
+        },
+        {
+          "titulo": "Cupid Come",
+          "url": "https://www.youtube.com/watch?v=j4CQvLJOV9I"
+        },
+        {
+          "titulo": "You Never Should",
+          "url": "https://www.youtube.com/watch?v=w1z76Y_3x7s"
+        },
+        {
+          "titulo": "No More Sorry",
+          "url": "https://www.youtube.com/watch?v=9IGW8oGY7yQ"
+        },
+        {
+          "titulo": "Sometimes",
+          "url" : "https://www.youtube.com/watch?v=hSI_9P9rRt4"
+        },
+        {
+          "titulo": "Slow",
+          "url": "https://www.youtube.com/watch?v=_E1l8Zra8T8"
+        },
+        {
+          "titulo": "Drive it All Over Me",
+          "url": "https://www.youtube.com/watch?v=xotaOLuJZnc"
+        },
+        {
+          "titulo": "Soon",
+          "url": "https://www.youtube.com/watch?v=DM-KZ74fH_0"
+        }
+      ]
+    },
+    {
+      "titulo": "Smashing Pumpkins",
+      "cor": "#5d00ff",
+      "link_extra": {
+        "text": "Siamese Dream Album",
+        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN?si=pCNtcndMRAaRjFPg88v6gw"
+      },
+      "videos": [
+        {
+          "titulo": "Jennifer Ever",
+          "url": "https://www.youtube.com/watch?v=csp06tLUcBo"
+        },
+        {
+          "titulo": "New Waver",
+          "url": "https://www.youtube.com/watch?v=L7tANd80tcU"
+        },
+        {
+          "titulo": "1979",
+          "url": "https://www.youtube.com/watch?v=tN9pyght8lQ"
+        },
+        {
+          "titulo": "Tonight Tonight",
+          "url": "https://www.youtube.com/watch?v=wXOCH-XVPro"
+        },
+        {
+          "titulo": "There It Goes",
+          "url": "https://www.youtube.com/watch?v=pVSbTGE1hAA"
+        },
+        {
+          "titulo": "Bullet With Butterfly Wings",
+          "url": "https://www.youtube.com/watch?v=8-r-V0uK4u0"
+        },
+        {
+          "titulo": "Cherub Rock",
+          "url": "https://www.youtube.com/watch?v=q-KE9lvU810"
+        },
+        {
+          "titulo": "I Am One",
+          "url": "https://www.youtube.com/watch?v=Pi6RJmUNBbw"
+        },
+        {
+          "titulo": "Siva",
+          "url": "https://www.youtube.com/watch?v=Nx0WpxXMhWI"
+        },
+        {
+          "titulo": "Rhinoceros",
+          "url": "https://www.youtube.com/watch?v=aVfWx9282y0"
+        },
+        {
+          "titulo": "Bury Me",
+          "url": "https://www.youtube.com/watch?v=z_WCi67xA34"
+        }
+        
+      ]
+    },
+    {
+      "titulo": "Slowdive",
+      "cor": "#5d00ff",
+      "link_extra": {
+        "text": "Souvlaki Album",
+        "url": "https://open.spotify.com/album/4i21O3uVh5palcfFhCjlT7?si=N7MIrqzeSmmZMCWjjbaMMQ"
+      },
+      "videos": [
+        {
+          "titulo": "Souvlaki Space Station",
+          "url": "https://www.youtube.com/watch?v=lH5wlRrKzK4"
+        },
+        {
+          "titulo": "When the Sun hits",
+          "url": "https://www.youtube.com/watch?v=HN-KHZ9NDVA"
+        },
+        {
+          "titulo": "Machine Gun",
+          "url": "https://www.youtube.com/watch?v=SQ6pHlVKW9w"
+        },
+        {
+          "titulo": "Alison",
+          "url": "https://www.youtube.com/watch?v=5D2u3ASuelQ"
+        },
+        {
+          "titulo": "Catch the Breeze",
+          "url": "https://www.youtube.com/watch?v=b-ypXdiyG54"
+        },
+        {
+          "titulo": "Dagger",
+          "url": "https://www.youtube.com/watch?v=CczmMDvQDa0"
+        },
+        {
+          "titulo": "Jesus",
+          "url": "https://www.youtube.com/watch?v=YdUzZ8x39zE"
+        },
+        {
+          "titulo": "Ballad Of Sister Sue",
+          "url": "https://www.youtube.com/watch?v=ouqgs7uFlHw"
+        },
+        {
+          "titulo": "Celia's Dream",
+          "url": "https://www.youtube.com/watch?v=BGznUPqLZFI"
+        }
+      ]
+    },
+    
     {
       "titulo": "Joy Division",
       "cor": "#5d00ff",
@@ -162,131 +356,7 @@
         }
       ]
     },
-    {
-      "titulo": "Slowdive",
-      "cor": "#5d00ff",
-      "link_extra": {
-        "text": "Souvlaki Album",
-        "url": "https://open.spotify.com/album/4i21O3uVh5palcfFhCjlT7?si=N7MIrqzeSmmZMCWjjbaMMQ"
-      },
-      "videos": [
-        {
-          "titulo": "Souvlaki Space Station",
-          "url": "https://www.youtube.com/watch?v=lH5wlRrKzK4"
-        },
-        {
-          "titulo": "When the Sun hits",
-          "url": "https://www.youtube.com/watch?v=HN-KHZ9NDVA"
-        },
-        {
-          "titulo": "Machine Gun",
-          "url": "https://www.youtube.com/watch?v=SQ6pHlVKW9w"
-        },
-        {
-          "titulo": "Alison",
-          "url": "https://www.youtube.com/watch?v=5D2u3ASuelQ"
-        },
-        {
-          "titulo": "Catch the Breeze",
-          "url": "https://www.youtube.com/watch?v=b-ypXdiyG54"
-        },
-        {
-          "titulo": "Dagger",
-          "url": "https://www.youtube.com/watch?v=CczmMDvQDa0"
-        },
-        {
-          "titulo": "Jesus",
-          "url": "https://www.youtube.com/watch?v=YdUzZ8x39zE"
-        },
-        {
-          "titulo": "Ballad Of Sister Sue",
-          "url": "https://www.youtube.com/watch?v=ouqgs7uFlHw"
-        },
-        {
-          "titulo": "Celia's Dream",
-          "url": "https://www.youtube.com/watch?v=BGznUPqLZFI"
-        }
-      ]
-    },
-    {
-      "titulo": "The Smiths",
-      "cor": "#5d00ff",
-      "link_extra": {
-        "text": "The Smiths Album",
-        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN?si=ksen2YzjT3mfyw1Qe_tyrQ"
-      },
-      "videos": [
-        {
-          "titulo": "This Night Has Opened My Eyes",
-          "url": "https://www.youtube.com/watch?v=iWcQqWW3QCI"
-        },
-        {
-          "titulo": "Some Girls are Bigger Than Others",
-          "url": "https://www.youtube.com/watch?v=C906lbkcYug"
-        },
-        {
-          "titulo": "There is a Light That Never Goes out",
-          "url": "https://www.youtube.com/watch?v=3r-qDvD3F3c"
-        },
-        {
-          "titulo": "Bigmouth Strikes Again",
-          "url": "https://www.youtube.com/watch?v=PtzhvJh9NRY"
-        },
-        {
-          "titulo": "Pretty Girls Make Graves",
-          "url": "https://www.youtube.com/watch?v=jGl7g_a5YLA"
-        },
-        {
-          "titulo": "Money Changes Everything",
-          "url": "https://www.youtube.com/watch?v=05lON3j1FH8"
-        },
-        {
-          "titulo": "Reel Around The Fountain",
-          "url": "https://www.youtube.com/watch?v=V04bUY5Kl8w"
-        },
-        {
-          "titulo": "Suffur little Children",
-          "url": "https://www.youtube.com/watch?v=Xux9-UQ4wJ4"
-        },
-        {
-          "titulo": "The Hand That Rocks the Cradle",
-          "url": "https://www.youtube.com/watch?v=azNq-XaaS9Q"
-        },
-        {
-          "titulo": "Heaven Knows I'm Miserable Now",
-          "url": "https://www.youtube.com/watch?v=TjPhzgxe3L0"
-        }
-      ]
-    },
-    { "titulo": "My Bloody Valentine",
-      "cor": "#5d00ff",
-      "link_extra": {
-        "text": "Loveless Album",
-        "url": "https://www.youtube.com/watch?v=Dq76B2sDpFA"
-      },
-      "videos": [
-        {
-          "titulo": "Only Shallow",
-          "url": "https://www.youtube.com/watch?v=FyYMzEplnfU"
-        },
-        {
-          "titulo": "I Only Said",
-          "url": "https://www.youtube.com/watch?v=tVj-fc1M_D0"
-        },
-        {
-          "titulo": "Slow",
-          "url": "https://www.youtube.com/watch?v=gxf0o5XHX4M"
-        },
-        {
-          "titulo": "Drive it All Over Me",
-          "url": "https://www.youtube.com/watch?v=v4_nV8jQqSE"
-        },
-        {
-          "titulo": "Soon",
-          "url": "https://www.youtube.com/watch?v=586-G4TcUxQ"
-        }
-      ]
-    },
+    
     {
       "titulo": "Radiohead",
       "cor": "#5d00ff",
@@ -326,50 +396,54 @@
       ]
     },
     {
-      "titulo": "Smashing Pumpkins",
+      "titulo": "The Cure",
       "cor": "#5d00ff",
       "link_extra": {
-        "text": "Siamese Dream Album",
-        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN?si=pCNtcndMRAaRjFPg88v6gw"
+        "text": "Seventeen Seconds Album",
+        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck?si=3YoRzUrxT6WKwfv2dQp0Hw"
       },
       "videos": [
         {
-          "titulo": "Jennifer Ever",
-          "url": "https://www.youtube.com/watch?v=csp06tLUcBo"
+          "titulo": " In Between Days",
+          "url": "https://www.youtube.com/watch?v=scif2vfg1ug"
         },
         {
-          "titulo": "There It Goes",
-          "url": "https://www.youtube.com/watch?v=pVSbTGE1hAA"
+          "titulo": "In Your House",
+          "url": "https://www.youtube.com/watch?v=FH6Rb9zyBuw"
         },
         {
-          "titulo": "Bullet With Butterfly Wings",
-          "url": "https://www.youtube.com/watch?v=8-r-V0uK4u0"
+          "titulo": "Peel Session 1980",
+          "url": "https://www.youtube.com/watch?v=bsUXcQakUno"
         },
         {
-          "titulo": "Cherub Rock",
-          "url": "https://www.youtube.com/watch?v=q-KE9lvU810"
+          "titulo": "A Forest",
+          "url": "https://www.youtube.com/watch?v=r54jwZvtJck"
         },
         {
-          "titulo": "I Am One",
-          "url": "https://www.youtube.com/watch?v=Pi6RJmUNBbw"
+          "titulo": "Lullaby",
+          "url": "https://www.youtube.com/watch?v=3FtIqsTo9Zk"
         },
         {
-          "titulo": "Siva",
-          "url": "https://www.youtube.com/watch?v=Nx0WpxXMhWI"
+          "titulo": "M",
+          "url": "https://www.youtube.com/watch?v=wnWoMsn2abQ"
         },
         {
-          "titulo": "Rhinoceros",
-          "url": "https://www.youtube.com/watch?v=aVfWx9282y0"
+          "titulo": "A Nigth Like This",
+          "url": "https://www.youtube.com/watch?v=KE1nu67-U2I"
         },
         {
-          "titulo": "Bury Me",
-          "url": "https://www.youtube.com/watch?v=z_WCi67xA34"
+          "titulo": "Lovesong",
+          "url": "https://www.youtube.com/watch?v=ks_qOI0lzho"
         }
       ]
     },
     {
       "titulo": "Red Hot Chilli Peppers",
       "cor": "#5d00ff",
+      "link_extra":{
+        "text": "Stadium Arcadium",
+        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ?si=80UaMFyxQG-FEPzwvozQOw&dl_branch=1"
+      },
       "videos": [
         {
           "titulo": "Under the bridge",
@@ -401,40 +475,7 @@
         }
 
       ]
-    },
-    {
-      "titulo": "The Cure",
-      "cor": "#5d00ff",
-      "link_extra": {
-        "text": "Seventeen Seconds Album",
-        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck?si=3YoRzUrxT6WKwfv2dQp0Hw"
-      },
-      "videos": [
-        {
-          "titulo": "Peel Session 1980",
-          "url": "https://www.youtube.com/watch?v=bsUXcQakUno"
-        },
-        {
-          "titulo": "A Forest",
-          "url": "https://www.youtube.com/watch?v=r54jwZvtJck"
-        },
-        {
-          "titulo": "Lullaby",
-          "url": "https://www.youtube.com/watch?v=3FtIqsTo9Zk"
-        },
-        {
-          "titulo": "M",
-          "url": "https://www.youtube.com/watch?v=wnWoMsn2abQ"
-        },
-        {
-          "titulo": "A Nigth Like This",
-          "url": "https://www.youtube.com/watch?v=KE1nu67-U2I"
-        },
-        {
-          "titulo": "Lovesong",
-          "url": "https://www.youtube.com/watch?v=ks_qOI0lzho"
-        }
-      ]
     }
+    
     ]
 }

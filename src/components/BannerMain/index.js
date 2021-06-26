@@ -17,7 +17,7 @@ export default function BannerMain({
 }) {
   const youTubeID = getYouTubeId(url);
   //const bgUrl = `https://img.youtube.com/vi/${youTubeID}/maxresdefault.jpg`;
-  const bgUrl = `https://wallpapercave.com/wp/y0CeSA8.png`
+  const bgUrl = `https://wallpaperaccess.com/full/5125158.png`
 
   return (
     <BannerMainContainer backgroundImage={bgUrl}>
@@ -30,25 +30,15 @@ export default function BannerMain({
           <ContentAreaContainer.Description>
            <h3>{videoDescription}</h3>
            <br />
-           1. Speak To Me
+           1. Pigs On The Wing (Part One)
            <br />
-           2. Breathe (In the Air)
+           2. Dogs
            <br />
-           3. On the Run
+           3. Pigs (Three Different Ones)
            <br />
-           4. Time
+           4. Sheep
            <br />
-           5. The Great Gig in the Sky
-           <br />
-           6. Money
-           <br />
-           7. Us and Them
-           <br />
-           8. Any Colour You Like
-           <br />
-           9. Brain Damage
-           <br />
-           10. Eclipse
+           5. Pigs On The Wing (Part Two)
            
           </ContentAreaContainer.Description>
         </ContentAreaContainer.Item>
@@ -58,7 +48,7 @@ export default function BannerMain({
             youtubeID={youTubeID}
           />
           <WatchButton>
-            <a href="https://www.youtube.com/watch?v=yXWSq5UyERo">Assitir</a>
+            <a href="https://www.youtube.com/watch?v=uKiSWZxyY4U">Assitir</a>
           </WatchButton>
         </ContentAreaContainer.Item>
       </ContentAreaContainer>
